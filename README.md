@@ -1,4 +1,4 @@
 # KoishiLocker
-My second virus. Now ransomware! XD
+My second virus. Now just a locker.
 
-in develop..
+soon...
