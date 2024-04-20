@@ -5,7 +5,6 @@ Tested from Windows 2000 to Windows 11.
 
 NOTE: in Windows 2000 the MBR Changer didnt work. :P (and autostart)
 
-[ZIP is the old version.]
-[ISO is the latest version.]
+["final version.zip" is the latest (and probably the last) version.]
 
 (NSFW AGAIN!!)
